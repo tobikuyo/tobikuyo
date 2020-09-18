@@ -6,7 +6,7 @@
 
 
 ### Hello I'm Tobi 👋🏾
-- iOS Developer.
+- iOS Developer
 - Student at Lambda School 
 - Always working on side projects to improve my skills
 - Skilled in Swift, Objective-C, Firebase, Core Data, Realm
