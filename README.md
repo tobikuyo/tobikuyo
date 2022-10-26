@@ -4,8 +4,8 @@
 
 <br />
 
-
 ### Hello I'm Tobi 👋🏾
-- Full Stack Web Developer Trainee
-- Always working on side projects to improve my skills
-- Skilled in HTML, CSS, Javascript, React, Node, Express, Jest, PostgreSQL, MongoDB, MySQL
+
+-   Full Stack Web Developer
+-   Always working on side projects to improve my skills
+-   Skilled in Javascript, Typescript, React, Node, Express, Jest, PostgreSQL, MongoDB, GraphQL
